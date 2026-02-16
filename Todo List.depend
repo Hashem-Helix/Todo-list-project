@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1770713731 source:c:\users\pcgadjet\desktop\todo list\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+
